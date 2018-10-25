@@ -1,0 +1,2 @@
+class SocialNet < ApplicationRecord
+end
